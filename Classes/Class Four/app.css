@@ -1,0 +1,36 @@
+img{
+    height: 300px;
+    width: 210px;
+    float: right;
+}
+body{
+    border: 1px solid green;
+    clear: both;
+    float: left;
+    overflow: auto;
+    height: 815px;
+    width: 800px;
+    margin: 25px;
+    background-color:deepskyblue;
+
+}
+
+h1{
+    margin-left: 200px;
+    color: white;   
+}
+
+span{
+    /*margin-left: 310px;*/
+    color: green;
+    text-decoration: underline;
+}
+nav{
+    color: white;
+    margin-left: 310px;
+}
+h2, p, img{
+    margin-left: 50px;
+    margin-right: 150px;
+    color: white;
+}
