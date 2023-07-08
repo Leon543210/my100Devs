@@ -1,0 +1,22 @@
+
+
+header, footer{ 
+    border: 1px solid black;
+    clear: both;
+    height: 75px;
+    width: 1000px;
+}
+
+#rowOne{
+    height: 125px;
+    width: 332px;
+    border: 1px solid black;
+    float: left;
+}
+
+#rowTwo{
+    height: 200px;
+    width: 499px;
+    border: 1px solid black;
+    float: left;
+}
