@@ -1,0 +1,32 @@
+header, footer {
+    height: 75px;
+    border: 1px solid black;
+    width: 99.95%;
+    clear: both;
+}
+
+#sectOne {
+    height: 125px;
+    width: 99.95%;
+    border: 1px solid black;
+}
+
+#sectTwo {
+    border: 1px solid black;
+    height: 200px;
+    width: 30%;
+    float: left;
+}
+
+#sectThree {
+    border: 1px solid black;
+    height: 200px;
+    width: 69.66666%;
+    float: left;
+}
+
+/* div {
+    border: 1px solid black;
+    height: 150px;
+    width: 100%;
+} */
