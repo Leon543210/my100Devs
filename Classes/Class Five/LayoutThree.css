@@ -1,0 +1,23 @@
+header, footer {
+    height: 75px;
+    width: 50.20%;
+    clear: both;
+    border: 1px solid black;
+}
+
+section{
+    height: 200px;
+    width: 10%;
+    border-left: 1px solid black;
+    float: left;
+}
+
+#sectTwo{
+    width: 20%;
+    float: left;
+}
+
+#sectFour {
+    border-right: 1px solid black;
+
+}
