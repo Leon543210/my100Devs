@@ -1,0 +1,66 @@
+header, footer {
+    height: 100px;
+    width: 90.3%;
+    border: 1px solid black;
+    clear: both;
+}
+
+section {
+    height: 250px;
+    width: 30%;
+    border: 1px solid black;
+    float: left;
+}
+
+
+
+@media all and (max-width: 1024px) {
+
+    header, footer {
+        height: 100px;
+        width: 84.4%;
+        border: 1px solid black;
+        clear: both;
+    }
+
+    section {
+        border: 1px solid black;
+        height: 225px;
+        width: 28%;
+        float: left;
+    }
+}
+
+@media all and (max-width: 900px) {
+
+    header, footer {
+        height: 100px;
+        width: 78.5%;
+        border: 1px solid black;
+        clear: both;
+    }
+
+    section {
+        border: 1px solid black;
+        height: 200px;
+        width: 26%;
+        background-color: red;
+    }
+}
+
+@media all and (max-width: 600px) {
+
+    header, footer {
+        height: 100px;
+        width: 72.7%;
+        border: 1px solid black;
+        clear: both;
+    }
+
+    section {
+        border: 1px solid black;
+        height: 175px;
+        width: 24%;
+        background-color: cyan;
+    }
+}
